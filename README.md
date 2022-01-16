@@ -12,3 +12,7 @@ Shows your Playtime on a server in days, hours and minutes.
 /ot session - Shows you how much a player has spent online in this session
 
 /ot info - Shows you the version and author from this plugin
+
+# Operator
+
+/ot reset all - Resets playtime of every player on the server
